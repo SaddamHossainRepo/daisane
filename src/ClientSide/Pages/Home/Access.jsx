@@ -21,7 +21,7 @@ const Access = () => {
             </style>
             <div className="lR leftRSpace md:grid md:grid-cols-2 2xl:gap-x-[96px] xl:gap-x-[68px] md:gap-x-6">
                 <div>
-                    <img className="2xl:h-[979px] 2xl:w-[803px] xl:w-[635px] xl:h-[774px] w-[310px] h-[386px] rounded-[10px] object-cover accessImg accImg md:h-[500px]" src={access} alt="" />
+                    <img className="2xl:h-[979px] lg:w-[420px] 2xl:w-[803px] xl:w-[635px] xl:h-[774px] w-[310px] h-[386px] rounded-[10px] object-cover accessImg accImg md:h-[500px]" src={access} alt="" />
                 </div>
                 <div>
 

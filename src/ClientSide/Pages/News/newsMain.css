@@ -31,7 +31,18 @@
    }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1365px) {
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+    .cardPara {
+        font-size: 14px;
+        line-height: 20px;
+        padding-left: 10px;
+        padding-bottom: 15px;
+        padding-right: 10px;
+
+       }
+ }
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
     .cardPara {
         font-size: 14px;
         line-height: 20px;
@@ -41,6 +52,7 @@
 
        }
  }
+
 
 @media only screen and (min-width: 414px) and (max-width: 767px) {
     

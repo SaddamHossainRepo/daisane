@@ -16,7 +16,7 @@
     @apply my-[50px]
   }
   .Headerlogo{
-    @apply lg:h-[81.92px] lg:w-[251.67]  xl:w-[230px] xl:h-[74.87px]
+    @apply lg:h-auto lg:w-[160px]  xl:w-[230px] xl:h-[74.87px]
   }
   .footerHeading {
     @apply 2xl:font-bold 2xl:text-[25px] 2xl:text-white 

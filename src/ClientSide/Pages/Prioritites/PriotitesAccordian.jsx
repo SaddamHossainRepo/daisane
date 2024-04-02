@@ -29,9 +29,9 @@ const PriotitesAccordian = () => {
         `}
                 </style>
                 <div>
-                    <img className='2xl:w-[626px] xl:w-[566px] w-[310px]  h-[386px] xl:h-[805px] 2xl:h-[890px] object-cover prioImg rounded-[10px]' src={pSide} alt="" />
+                    <img className='2xl:w-[626px] lg:w-[466px] lg:h-auto xl:w-[566px] w-[310px]  h-[386px] xl:h-[805px] 2xl:h-[890px] object-cover prioImg rounded-[10px]' src={pSide} alt="" />
                 </div>
-                <div className='2xl:w-[898px] xl:w-[634px] w-[310px] md:w-[370px] accordianWidth 2xl:ml-[96px] xl:ml-[70px]'>
+                <div className='2xl:w-[898px] lg:w-[420px]  xl:w-[634px] w-[310px] md:w-[370px] accordianWidth 2xl:ml-[96px] xl:ml-[70px]'>
                     <div className=" rounded 2xl:mb-[50px] xl:mb-[35px] mb-[15px] accordianFirstText mt-[25px] xl:mt-0 2xl:mt-0 md:mt-0">
                         <div
                             className="flex items-center justify-between xl:rounded-[10px] rounded-[6px] cursor-pointer xl:pl-[35px] xl:pr-[50px] pl-[15px] pr-[15px]  2xl:pl-[50px] 2xl:pr-[100px] bg-[#12225D]"
