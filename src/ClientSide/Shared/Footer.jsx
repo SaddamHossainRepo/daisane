@@ -41,7 +41,7 @@ const Footer = () => {
                             <h4 className="mainFooterSubHeading xl:mt-0 mt-[25px]" style={customFontStyle}>Our Office</h4>
                             <h6 className="footerLinkText mb-[18px]  xl:mb-[50px]" style={poppinsFontStyle}>PO Box 2354 St. Cloud, MN 56302.</h6>
                             <h6 className="flex  items-center footerLinkText xl:mb-[20px] mb-[10px] " style={poppinsFontStyle}><span><img className="xl:h-[27px] xl:w-[27px] xl:mr-[15px] mr-[10px] w-[13.77px] h-[14.48px]" src={phone} alt="phoneIcon" /></span>320-223-4902</h6>
-                            <h6 className="flex  items-center footerLinkText " style={poppinsFontStyle}><span><img className="xl:h-[25px] xl:w-[30px] w-[14.83px] h-[12.99px] xl:mr-[15px] mr-[10px]" src={emailIcon} alt="phoneIcon" /></span>daisaneformn@gmail.com</h6>
+                            <h6 className="flex  items-center footerLinkText " style={poppinsFontStyle}><span><img className="xl:h-[25px] xl:w-[30px] w-[14.83px] h-[12.99px] xl:mr-[40px] mr-[10px]" src={emailIcon} alt="phoneIcon" /></span>daisaneformn@gmail.com</h6>
                         </div>
                         <div className="2xl:mr-[300px] xl:mr-[59px]   " >
                             <div className="sm:flex sm:justify-center">
